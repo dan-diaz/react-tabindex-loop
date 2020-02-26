@@ -10,5 +10,5 @@ You should manually handle that depending on your use-case.
 | children | string | react children provided to the tabindex-loop | null |
 | className | string | custom className for the wrapper | null |
 | disabled | boolean | will disable the tabloop | false |
-| selector | string | the query selector value to find tabbable elements | '[tabindex], a, button, input, select, textarea, iframe, [contentEditable=true], area' |
+| selector | string | the query selector value to find focusable elements | '[tabindex], a, button, input, select, textarea, iframe, [contentEditable=true], area' |
 
