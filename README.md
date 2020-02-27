@@ -1,4 +1,4 @@
-# tabindex-loop
+# react-tabindex-loop
 Creates a guarded loop of tab elements.
 Ideal for managing tabbing within modals and popups.
 This does not manage removing focus from the loop.
